@@ -1,5 +1,6 @@
 {
     "name": "ft3-schranke-61",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
